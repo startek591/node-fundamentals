@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "body-parser": "^2.2.0",
     "express": "^4.21.2",
     "tape": "^5.9.0"
   }
